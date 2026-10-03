@@ -1,11 +1,12 @@
 import streamlit as st
 from decimal import Decimal, ROUND_HALF_UP
+st.image("IMG_20260811_151724.jpg")
 
 # =========================
 # CẤU HÌNH TRANG
 # =========================
 st.set_page_config(
-    page_title="Tính lãi gửi tiết kiệm",
+    page_title="Tính lãi gửi tiết kiệm_Phạm Thị Mỹ Lộc",
     page_icon="💰",
     layout="centered"
 )
