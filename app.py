@@ -6,7 +6,7 @@ st.image("IMG_20260811_151724.jpg")
 # CẤU HÌNH TRANG
 # =========================
 st.set_page_config(
-    page_title="Tính lãi gửi tiết kiệm_Phạm Thị Mỹ Lộc",
+    page_title="Tính lãi gửi tiết kiệm Phạm Thị Mỹ Lộc",
     page_icon="💰",
     layout="centered"
 )
